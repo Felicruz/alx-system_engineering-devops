@@ -1,2 +1,6 @@
 #!/bin/bash
-BEST="School"
+$BEST=School
+$echo $Best
+$export BEST
+$/bin/bash
+$echo $BEST
